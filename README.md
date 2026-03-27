@@ -37,7 +37,7 @@ Dart SDK: >=2.17.6 <3.0.0
 ## Installation
 
 1. Clone the repository:
-   git clone <your-repo-url>
+   git clone https://github.com/SevenSquare-Tech/porter-clone
 
 2. Navigate to project:
    cd porter-clone
